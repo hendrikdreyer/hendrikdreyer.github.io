@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Experience
 layout: default
 use_fontawesome: true
 ---
