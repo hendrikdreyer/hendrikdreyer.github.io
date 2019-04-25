@@ -35,7 +35,7 @@ use_fontawesome: true
 
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
-    <img src="{{ site.baseurl }}/images/black_and_white.png">
+    <img src="{{ site.baseurl }}/images/tv_energy_ratings.png">
 </div>
 <div class="col-12 col-sm-8">
     <h3>Analysis of TV Energy Ratings</h3>
