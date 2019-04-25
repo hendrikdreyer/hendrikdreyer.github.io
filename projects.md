@@ -49,3 +49,29 @@ use_fontawesome: true
 </div>
 </div>
 <hr>
+
+<div class="row content-row">
+<div class="col-12 col-sm-4 image-wrapper">
+    <img src="{{ site.baseurl }}/images/ADSR fb4.png">
+</div>
+<div class="col-12 col-sm-8">
+    <h3>AutoSalesReports</h3>
+    <p class="italic">Jun 2017 - Dec 2018</p>
+    <p><span class="bold">Abstract:</span>
+	Utilizing the Caspio cloud based development environment I designed, coded, tested and rolled-out AutoSalesReports (ASR). 
+	ASR is a cloud based BI solution for the Australian automotive industry. 
+	ASR is a fully integrated CRM and Saleslog system, with advanced BI reporting capabilities. 
+	Microsoft SQL Server was used as the cloud database. 
+	Extensive Java scripting was used to facilitate a large portion of ASR's functionality in Caspio.</p>
+    <a href="https://hendrikdreyer.github.io/AutoSalesReports/">Link</a>	
+</div>
+</div>
+<hr>
+
+
+
+
+
+
+
+

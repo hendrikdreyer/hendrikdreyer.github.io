@@ -24,7 +24,7 @@ use_fontawesome: true
 	discovered in the system leading to vast improvements in the system performance and reliability. 
 	Verified and analysed multiple engineering change requests, 
 	which were raised during various phases of testing to mitigate risk to the project outcomes 
-	- building a database of CRM’s to be tracked, managed and implemented</p>
+	- building a database of CRM’s to be tracked, managed and implemented.</p>
 </div>
 </div>
 <hr>
