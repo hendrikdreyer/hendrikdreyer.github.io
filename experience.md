@@ -28,3 +28,18 @@ use_fontawesome: true
 </div>
 </div>
 <hr>
+
+<div class="row content-row">
+<div class="col-12 col-sm-4">
+    <img src="images/Motec.png">
+</div>
+<div class="col-12 col-sm-8">
+    <h3>Software Engineer</h3>
+    <p class="italic">Aug 2008 - May 2010</p>
+    <p>Led the development and design of Lamba to CAN (LTC) configuration and monitoring system. 
+	Developed and wrote the formal requirements specifications for the LTC. 
+	Designed, assessed and coded the software product. 
+	Held overarching accountability for the maintenance of in-house PC-based software products for Windows XP and Vista to ensure optimal performance for clients.</p>
+</div>
+</div>
+<hr>
