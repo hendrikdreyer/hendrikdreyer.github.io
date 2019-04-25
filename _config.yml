@@ -1,6 +1,6 @@
 # theme: jekyll-theme-cayman
-title: Chris Yeh
-description: Stanford University, Class of 2018
+title: Hendrik Dreyer
+description: Data Scientist
 
 highlighter: rouge
 
@@ -8,6 +8,5 @@ highlighter: rouge
 # incremental: true
 
 # strip all unncessary whitespace and comments
-# http://jch.penibelst.de/
 compress_html:
   blanklines: true
