@@ -23,6 +23,10 @@
               <li class="nav-item">
                 <a class="nav-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
               </li>
+            {%- else -%}
+              <li class="nav-item">
+                <a class="nav-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+              </li>			  
             {%- endif -%}
           {%- endunless -%}
         {%- endfor -%}
