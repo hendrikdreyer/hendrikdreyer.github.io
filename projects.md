@@ -22,37 +22,18 @@ use_fontawesome: true
 
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
-    <img src="{{ site.baseurl }}/images/research_stereo_ihler.png">
+    <img src="{{ site.baseurl }}/images/black_and_white.png">
 </div>
 <div class="col-12 col-sm-8">
-    <h3>Conditional Random Fields for Dense Stereo Matching</h3>
+    <h3>Black vs. White</h3>
     <p class="italic">Summer 2012 - Summer 2014</p>
-    <p><span class="bold">Abstract:</span> Various algorithms have been developed over the past two decades for solving the stereo correspondence problem, which is defined as the identification of the offset or disparity of an object in a pair of stereo images. Recent work has shown that conditional random fields (CRFs) have the potential to be faster and more accurate than traditional local matching algorithms. The canonical CRF for solving dense stereo matching problems uses a basic energy function that accounts for both local intensity matching and smoothness costs. Traditionally, the smoothness term relies on a binary Potts Model which fails to assign different costs to different disparities. In this paper, we extend the smoothness term in the energy function to be more robust. Specifically, we explore using a logarithmic function modulated by discrete edge gradient bins and binary edge detection features. The logarithmic function is able to distinguish between different disparities and therefore assign more appropriate costs. Our results suggest that our algorithm exceeds the performance of the traditional smoothness term based on a Potts Model. However, further optimization in our CRF evaluation process is necessary to achieve real-time outputs.</p>
-    <p><span class="bold">Mentor:</span> Dr. Alex Ihler, UC Irvine</p>
-    <p><span class="bold">Presentation:</span> 2013 Southern California Conference for Undergraduate Research (SCCUR) at Whittier College, CA</p>
-    <a href="https://drive.google.com/file/d/0B-7rmGyO0CsvVC1aVVlPUzEtTkE/view" class="btn btn-light">
-        <i class="fa fa-file"></i> Presentation Slides
-    </a>
-    <a href="https://youtu.be/Q3Iml7WxyKw" class="btn btn-light">
-        <i class="fab fa-youtube"></i> Presentation Video
+    <p><span class="bold">Abstract:</span> Do black vehicles have a greater mean wheel diameter than white vehicles? The underlying, safe assumption in this regard is that there is no significant difference in mean wheel diameter between black vehicles and white vehicles (null-hypothesis). The R-code can be used as is. Although, the analysis and interpretation of the statistical test is really what this exercise was about.</p>
+    <a href="https://hendrikdreyer.github.io/Black-vs-White/">Link</a>
     </a>
 </div>
 </div>
 <hr>
 
-<div class="row content-row">
-<div class="col-12 col-sm-4">
-    <img src="{{ site.baseurl }}/images/research_foam_tanner.jpg">
-</div>
-<div class="col-12 col-sm-8 section">
-    <h3>Effect of Aging on the Foam Fractionation of Lactoferrin</h3>
-    <p class="italic">Summer 2011</p>
-    <p><span class="bold">Abstract:</span> Foam fractionation is an inexpensive and simple technique for concentrating proteins. The foamability of a protein can drastically change with the age of the protein. The foamability of solutions created from ten year old bovine lactoferrin (bLF) protein was investigated with varying concentration protein, air flow velocity, and the pH of the solution. The results suggest the foamability of the aged protein decreased to an insignificant level except at high pH with a protein concentration of 0.1 mg/mL.</p>
-    <p><span class="bold">Mentor:</span> Dr. Robert Tanner, Caltech</p>
-    <p><span class="bold">Collaborators:</span> Benjamin Yeh, Yuehan Huang</p>
-    <p><span class="bold">Presentation:</span> 43rd American Chemistry Society Western Regional Meeting, Pasadena, CA</p>
-</div>
-</div>
 
 <!-- Experience -->
 <h1 class="section-title">Experience</h1>
