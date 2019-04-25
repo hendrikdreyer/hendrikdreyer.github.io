@@ -68,7 +68,25 @@ use_fontawesome: true
 </div>
 <hr>
 
-
+<div class="row content-row">
+<div class="col-12 col-sm-4 image-wrapper">
+    <img src="{{ site.baseurl }}/images/grimreaper.png">
+</div>
+<div class="col-12 col-sm-8">
+    <h3>The Face of Death</h3>
+    <p class="italic">Jun 2017 - Dec 2018</p>
+    <p><span class="bold">Abstract:</span>
+	 The purpose of this project was to deploy the mechanisms of Principle Component Analysis (PCA) on a dataset, 
+	 which contains the categorized death records of the Australian populace since 1907.
+	 This report presents the interesting idea of visualizing death data in three dimensions. 
+	 A subtle personification of death is created by visualising death data. 
+	 In doing so, numerous observations come to light whereby we can gain a better understanding 
+	 of related entities that are hidden in and between the death numbers, such as correlation between deaths in 
+	 world war one and two as well as disassociation within deaths in the age groups 85+.</p>
+    <a href="https://hendrikdreyer.github.io/The-Face-of-DEATH/">Link</a>	
+</div>
+</div>
+<hr>
 
 
 
