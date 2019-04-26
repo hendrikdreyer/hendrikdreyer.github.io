@@ -13,6 +13,7 @@ use_fontawesome: true
 </div>
 <div class="col-12 col-sm-8">
     <h3>Senior Software Engineer</h3>
+	<h4>Siemens, Australia</h4>
     <p class="italic">May 2010 - May 2017</p>
     <p>
 	Melbourne Metro Train Control System - 
@@ -25,7 +26,7 @@ use_fontawesome: true
 	This task involved dev-ops work where you had to get your hands dirty in a lot of Linux bash scripting. 
 	After two rounds of re-structuring I was moved onto the Verification and Validation team (V&V), 
 	where I had the privilege to write a copious number of test documents (not that much fun). 
-	However, it gave me a thorough understanding of the system and it assisted me in executing various systems test, 
+	However, it gave me a thorough understanding of the system and it assisted me in executing various systems tests, 
 	which was required to get the system to higher operational levels. 
 	After another couple of re-structuring moves (yes, this project was under pressure from day one and no, 
 	it did not turn a profit – at least not at that stage), 
@@ -48,11 +49,34 @@ use_fontawesome: true
 </div>
 <div class="col-12 col-sm-8">
     <h3>Software Engineer</h3>
+    <h4>MoTeC, Australia</h4>	
     <p class="italic">Aug 2008 - May 2010</p>
-    <p>Led the development and design of Lamba to CAN (LTC) configuration and monitoring system. 
-	Developed and wrote the formal requirements specifications for the LTC. 
-	Designed, assessed and coded the software product. 
-	Held overarching accountability for the maintenance of in-house PC-based software products for Windows XP and Vista to ensure optimal performance for clients.</p>
+    <p>
+		After arriving in Australia in 2008, I landed my first job with MoTeC as a software engineer. 
+		MoTeC is a small boutique engineering firm that develops products for the motor racing industry. 
+		MoTeC’s software engineering department was driven by a small number of hard-core software developers, 
+		which took exceptional pride in their work and became easily emotional/defensive when you accidentally 
+		found a bug in their code. Non the less, their work ethic was second to none. 
+		I was given the initial task of developing the software for a small sensor that was fitted on the 
+		exhaust of a vehicle where it monitored the air-fuel mixture – it was call the LTC (Lambda-To-CAN). 
+		I took up the task with excitement and vigour and as any good software engineer 
+		(especially those that worked on military projects and is trained to work according to certain 
+		software development guidelines), I started doing requirement gathering and analysis. 
+		My first deliverable that I planned was an SRS (Software Requirement Specification). 
+		However, after a week, I sensed that my colleagues were showing signs of distress and 
+		were asking more and more when they could see some code. I re-assured them that I was on the 
+		verge of publishing my newly written SRS and was putting the final touches on it. 
+		To say the least, my colleagues were not impressed with the SRS and the reason being 
+		is that it was not code. Later, one of the senior engineers told me straight – 
+		“the code is the documentation”. It was then that I realised that the practice of 
+		Systems Engineering is null and void in MoTeC (today, it might be different, but back in 
+		2008, not so much). Fair enough, in an industry where there are no real safety regulations 
+		(as compared to the aviation industry), then yes, writing documentation is properly a waist 
+		of time and it is rather all about turn around time and pushing as much functionality into 
+		your software as humanly possible. I will be forever be thankful for MoTeC giving me my first 
+		job in Australia. But, after just under two years, and successfully delivering the LTC and 
+		maintaining a few other products, I decided to seek a more structured and regulated environment. 
+	</p>
 </div>
 </div>
 <hr>
