@@ -7,6 +7,7 @@ use_fontawesome: true
 <!-- Projects -->
 <h1 class="section-title">Projects</h1>
 
+<!-- VLBW -->
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
     <img src="{{ site.baseurl }}/images/who_logo.jpg">
@@ -20,6 +21,7 @@ use_fontawesome: true
 </div>
 <hr>
 
+<!-- Black vs. White -->
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
     <img src="{{ site.baseurl }}/images/black_and_white.png">
@@ -33,6 +35,7 @@ use_fontawesome: true
 </div>
 <hr>
 
+<!-- TV Energy Ratings -->
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
     <img src="{{ site.baseurl }}/images/tv_energy_ratings.png">
@@ -50,6 +53,7 @@ use_fontawesome: true
 </div>
 <hr>
 
+<!-- AutoSalesReports -->
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
     <img src="{{ site.baseurl }}/images/ADSR fb4.png">
@@ -68,6 +72,7 @@ use_fontawesome: true
 </div>
 <hr>
 
+<!-- The face of DEATH -->
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
     <img src="{{ site.baseurl }}/images/grimreaper.png">
@@ -87,6 +92,30 @@ use_fontawesome: true
 </div>
 </div>
 <hr>
+
+<!-- Tableau Dashboard Design -->
+<div class="row content-row">
+<div class="col-12 col-sm-4 image-wrapper">
+    <img src="{{ site.baseurl }}/images/tableau.png">
+</div>
+<div class="col-12 col-sm-8">
+    <h3>Tableau Dashboard</h3>
+    <p class="italic">Jun 2017 - Dec 2018</p>
+    <p><span class="bold">Abstract:</span>
+	This report explains how a given dataset is manipulated, augmented and consumed by Tableau. 
+	Five questions, as anticipated in a management meeting scenario, are asked about the dataset. 
+	To answer the five questions a rationale is given for the design decisions that underlies four visualizations.
+</p>
+    <a href="https://hendrikdreyer.github.io/Tableau-Dashboard-Design/">Link to GitHub</a>	
+    <a href="https://public.tableau.com/profile/hendrik5352#!/vizhome/Assessment-3-Sales/Assessment3-Dashboard?publish=yes">Link to online dashboard</a>		
+</div>
+</div>
+<hr>
+
+
+
+
+
 
 
 
