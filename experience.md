@@ -87,7 +87,7 @@ use_fontawesome: true
     <img src="images/ADSR fb4.png">
 </div>
 <div class="col-12 col-sm-8">
-    <h3>Software Engineer</h3>
+    <h3>Co-founder and BI Lead</h3>
     <h4>ADSR Technologies, Australia</h4>	
     <p class="italic">Jun 2017 - Dec 2018</p>
     <p>
