@@ -129,7 +129,7 @@ use_fontawesome: true
     <img src="images/SAAB.png">
 </div>
 <div class="col-12 col-sm-8">
-    <h3>Co-founder and BI Lead</h3>
+    <h3>Senior Software Engineer</h3>
     <h4>SAAB Avitronics, South Africa</h4>	
     <p class="italic">Jan 2002 - Feb 2008</p>
     <p>
