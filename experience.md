@@ -122,3 +122,37 @@ use_fontawesome: true
 </div>
 </div>
 <hr>
+
+
+<div class="row content-row">
+<div class="col-12 col-sm-4">
+    <img src="images/SAAB.png">
+</div>
+<div class="col-12 col-sm-8">
+    <h3>Co-founder and BI Lead</h3>
+    <h4>SAAB Avitronics, South Africa</h4>	
+    <p class="italic">Jan 2002 - Feb 2008</p>
+    <p>
+		SAAB Avitronics is a military manufacturing company that operates in South Africa in close conjunction with the SANDF 
+		(South African National Defence Force) and the country’s largest military manufacturer, Denel. At the time I was appointed
+		as a senior software engineer, SAAB was awarded a contract with the Indian Airforce who purchased 240 Sukhoi-SU30 Russian
+		fighter aircraft. SAAB won the contract to develop the crash recorders (black boxes, which incidentally is not black but,
+		bright orange) as well as data acquisition units (DAU). The DAU flies alongside the crash recorder on the aircraft and has
+		the capability to record any signal on the ARINC and MIL-1553 busses of the aircraft. My responsibility was to design, code,
+		test and qualify the Flight Line System (FLS). The FLS was responsible for capturing flight data, uploading configuration data
+		and performing live streaming of aircraft telemetry. It is during this time that I was exposed to MIL-STD-498 as well as 
+		RTCA DO-178B - Software Considerations in Airborne Systems and Equipment Certification, which is a guideline dealing with 
+		the safety of safety-critical software used in certain airborne systems. Both these standards, especially MIL-STD-498 gave
+		me a thorough grounding in understanding and applying a proper SDLC. These days Agile, Scrum, Lean, Kaban, Extreme Programming etc.
+		seem to be in demand. And, don’t get me wrong there is definitely a place for those methodologies. I think I was fortunate to 
+		land on a project that exposed me to both MIL-STD-498 and DO-178B. After the Sukhoi project I worked on the Redhawk Attack Helicopter’s
+		DAU code and kept up support and implemented smaller enhancements for the South African, British, Canadian, Australian and Indian 
+		Airforces’ FLS systems which flies on their respective Lead-In-Fighter-Trainers (LIFT). After six years at SAAB I resigned,
+		and my family and I decided to immigrate to Australia.
+	</p>
+</div>
+</div>
+<hr>
+
+
+
