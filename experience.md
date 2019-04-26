@@ -45,6 +45,48 @@ use_fontawesome: true
 
 <div class="row content-row">
 <div class="col-12 col-sm-4">
+    <img src="images/ADSR fb4.png">
+</div>
+<div class="col-12 col-sm-8">
+    <h3>Co-founder and BI Lead</h3>
+    <h4>ADSR Technologies, Australia</h4>	
+    <p class="italic">Jun 2017 - Dec 2018</p>
+    <p>
+		Towards the end of my career at Siemens I met <a href="https://www.linkedin.com/in/jon-heap-a61500a6/?originalSubdomain=au">Jon Heap</a> 
+		who was a semi-retired dealer principle whos last 
+		stint was at a Toyota dealership situated in the east of Melbourne. Together we started developing a cloud-based
+		CRM/Sales Reporting system, AutoSalesReports (ASR), which was focused on the day-to-day running and management of
+		an average Australian dealership. The development of ASR initiated under some heavy time and financial constraints.
+		Jon and I hammered out the requirements for the system, which were based on his experience in managing dealerships. 
+		I took it upon myself to code the system and Jon switched into a testing and training role. Initially, we set out to 
+		create a proof-of-concept system and then flesh it out to a production system. As a development platform I chose Caspio 
+		as it was geared for creating cloud-based databases and was oozing with functionality that assists in creating forms, 
+		tables, charts, graphics, etc. that can be easily deployed as asp object. Our main philosophy was to ”fail-fast” –
+		meaning that due to the time and financial constraints we had, we needed to get it to work quickly or else kill off the project. 
+		I spent a solid year and a half coding ASR (while commuting on the train, weekends, after hours and lunch breaks at work)
+		and learned a lot regarding creating websites. I’m still no guru when it comes to web design, but I know enough HTML,
+		CSS and Java script to be able to achieve something. The webpages for ASR were hosted on GoDaddy and Caspio would serve
+		the asp content from within the Caspio platform. 
+		We caught a lucky break early on by meeting a cash laced investor who at that stage wanting to build
+		his own auto holding group (multiple dealerships under one name). We successfully pitched ASR to him, 
+		and he liked what he saw – mainly because ASR had the capability to present a snap shot views of all his
+		dealership’s daily, weekly, monthly, etc. dealings. ASR could show him immediately which dealerships were under
+		performing, for instance. We successfully rolled out ASR in nine of his dealerships and were giving daily training 
+		sessions across Melbourne. Along side the roll-outs and personnel training we incorporated some additional requests 
+		from the dealerships and also transformed some of the higher-level reporting pages into Mandarin. 
+		Then, disaster struck. Our Chinese overlord were caught out for breaking the law regarding interstate
+		wholesale transactions. The agreements he had with the different vehicle franchises came crashing down
+		and one-by-one all his dealerships were sold over to new investors. Along with each new investor taking 
+		over a dealership came new systems, new management and personnel and hence, ASR would be replaced with something else. 
+		At that stage Jon and I realized we had a good run and decided to call it quits. We closed the company 
+		and I decided to go back to Uni to study data science and Jon is sailing his boat somewhere in the Pacific Ocean.
+	</p>
+</div>
+</div>
+<hr>
+
+<div class="row content-row">
+<div class="col-12 col-sm-4">
     <img src="images/Motec.png">
 </div>
 <div class="col-12 col-sm-8">
@@ -76,48 +118,6 @@ use_fontawesome: true
 		your software as humanly possible. I will be forever be thankful for MoTeC giving me my first 
 		job in Australia. But, after just under two years, and successfully delivering the LTC and 
 		maintaining a few other products, I decided to seek a more structured and regulated environment. 
-	</p>
-</div>
-</div>
-<hr>
-
-
-<div class="row content-row">
-<div class="col-12 col-sm-4">
-    <img src="images/ADSR fb4.png">
-</div>
-<div class="col-12 col-sm-8">
-    <h3>Co-founder and BI Lead</h3>
-    <h4>ADSR Technologies, Australia</h4>	
-    <p class="italic">Jun 2017 - Dec 2018</p>
-    <p>
-		Towards the end of my position at Siemens I met Jon Heap who was a semi-retired dealer principle whos last 
-		stint was at a Toyota dealership situated in the east of Melbourne. Together we started developing a cloud-based
-		CRM/Sales Reporting system, AutoSalesReports (ASR), which was focused on the day-to-day running and management of
-		an average Australian dealership. The development of ASR initiated under some heavy time and financial constraints.
-		Jon and I hammered out the requirements for the system, which were based on his experience in managing dealerships. 
-		I took it upon myself to code the system and Jon switched into a testing and training role. Initially, we set out to 
-		create a proof-of-concept system and then flesh it out to a production system. As a development platform I chose Caspio 
-		as it was geared for creating cloud-based databases and was oozing with functionality that assists in creating forms, 
-		tables, charts, graphics, etc. that can be easily deployed as asp object. Our main philosophy was to ”fail-fast” –
-		meaning that due to the time and financial constraints we had, we needed to get it to work quickly or else kill off the project. 
-		I spent a solid year and a half coding ASR (while commuting on the train, weekends, after hours and lunch breaks at work)
-		and learned a lot regarding creating websites. I’m still no guru when it comes to web design, but I know enough HTML,
-		CSS and Java script to be able to achieve something. The webpages for ASR were hosted on GoDaddy and Caspio would serve
-		the asp content from within the Caspio platform. 
-		We caught a lucky break early on by meeting a cash laced investor who at that stage wanting to build
-		his own auto holding group (multiple dealerships under one name). We successfully pitched ASR to him, 
-		and he liked what he saw – mainly because ASR had the capability to present a snap shot views of all his
-		dealership’s daily, weekly, monthly, etc. dealings. ASR could show him immediately which dealerships were under
-		performing, for instance. We successfully rolled out ASR in nine of his dealerships and were giving daily training 
-		sessions across Melbourne. Along side the roll-outs and personnel training we incorporated some additional requests 
-		from the dealerships and also transformed some of the higher-level reporting pages into Mandarin. 
-		Then, disaster struck. Our Chinese overlord were caught out for breaking the law regarding interstate
-		wholesale transactions. The agreements he had with the different vehicle franchises came crashing down
-		and one-by-one all his dealerships were sold over to new investors. Along with each new investor taking 
-		over a dealership came new systems, new management and personnel and hence, ASR would be replaced with something else. 
-		At that stage Jon and I realized we had a good run and decided to call it quits. We closed the company 
-		and I decided to go back to Uni to study data science and Jon is sailing his boat somewhere in the Pacific Ocean.
 	</p>
 </div>
 </div>
