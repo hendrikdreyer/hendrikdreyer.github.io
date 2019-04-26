@@ -157,6 +157,42 @@ use_fontawesome: true
 </div>
 <hr>
 
+<!-- Little excercise in Numpy and Pandas -->
+<div class="row content-row">
+<div class="col-12 col-sm-4 image-wrapper">
+    <img src="{{ site.baseurl }}/images/python.png">
+</div>
+<div class="col-12 col-sm-8">
+    <h3>Little excercise in Numpy and Pandas</h3>
+    <p class="italic">Jun 2017 - Dec 2018</p>
+    <p><span class="bold">Abstract:</span>
+		Implementation of simplistic python app, which calculates basic statistics on a given dataset.
+	</p>
+    <a href="https://github.com/hendrikdreyer/Simple-Excercise-In-Numpy-And-Pandas/blob/master/HendrikDreyer-simplistic_stats_app.ipynb">Link</a>	
+</div>
+</div>
+<hr>
+
+<!-- DIKW - Hierarchy -->
+<div class="row content-row">
+<div class="col-12 col-sm-4 image-wrapper">
+    <img src="{{ site.baseurl }}/images/python.png">
+</div>
+<div class="col-12 col-sm-8">
+    <h3>DIKW-Hierarchy</h3>
+    <p class="italic">Jun 2017 - Dec 2018</p>
+    <p><span class="bold">Abstract:</span>
+		Let's get a bit philosophical. Concepts of data, information, knowledge and wisdom are the core building blocks of data science. 
+		Russell Lincoln Ackoff (1989) was the first to systematically arrange these terms into a hierarchy – 
+		referred to variously as the DIKW hierarchy, Knowledge pyramid, Knowledge hierarchy and Information hierarchy – 
+		in his article ’From Data to Wisdom’
+		This paper lists my thoughts on the DIKW hierarchy against five questions asked.
+	</p>
+    <a href="https://xizor1970.github.io/DIKW-Hierarchy/">Link</a>	
+</div>
+</div>
+<hr>
+
 
 
 
