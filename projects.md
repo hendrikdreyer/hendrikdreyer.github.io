@@ -176,7 +176,7 @@ use_fontawesome: true
 <!-- DIKW - Hierarchy -->
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
-    <img src="{{ site.baseurl }}/images/python.png">
+    <img src="{{ site.baseurl }}/images/DIKW.png">
 </div>
 <div class="col-12 col-sm-8">
     <h3>DIKW-Hierarchy</h3>
