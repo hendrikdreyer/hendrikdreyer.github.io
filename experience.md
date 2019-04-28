@@ -45,6 +45,48 @@ use_fontawesome: true
 
 <div class="row content-row">
 <div class="col-12 col-sm-4">
+    <img src="images/ADSR fb4.png">
+</div>
+<div class="col-12 col-sm-8">
+    <h3>Co-founder and BI Lead</h3>
+    <h4>ADSR Technologies, Australia</h4>	
+    <p class="italic">Jun 2017 - Dec 2018</p>
+    <p>
+		Towards the end of my career at Siemens I met <a href="https://www.linkedin.com/in/jon-heap-a61500a6/?originalSubdomain=au">Jon Heap</a> 
+		who was a semi-retired dealer principle whos last 
+		stint was at a Toyota dealership situated in the east of Melbourne. Together we started developing a cloud-based
+		CRM/Sales Reporting system, AutoSalesReports (ASR), which was focused on the day-to-day running and management of
+		an average Australian dealership. The development of ASR initiated under some heavy time and financial constraints.
+		Jon and I hammered out the requirements for the system, which were based on his experience in managing dealerships. 
+		I took it upon myself to code the system and Jon switched into a testing and training role. Initially, we set out to 
+		create a proof-of-concept system and then flesh it out to a production system. As a development platform I chose Caspio 
+		as it was geared for creating cloud-based databases and was oozing with functionality that assists in creating forms, 
+		tables, charts, graphics, etc. that can be easily deployed as asp object. Our main philosophy was to ”fail-fast” –
+		meaning that due to the time and financial constraints we had, we needed to get it to work quickly or else kill off the project. 
+		I spent a solid year and a half coding ASR (while commuting on the train, weekends, after hours and lunch breaks at work)
+		and learned a lot regarding creating websites. I’m still no guru when it comes to web design, but I know enough HTML,
+		CSS and Java script to be able to achieve something. The webpages for ASR were hosted on GoDaddy and Caspio would serve
+		the asp content from within the Caspio platform. 
+		We caught a lucky break early on by meeting a cash laced investor who at that stage wanting to build
+		his own auto holding group (multiple dealerships under one name). We successfully pitched ASR to him, 
+		and he liked what he saw – mainly because ASR had the capability to present a snap shot views of all his
+		dealership’s daily, weekly, monthly, etc. dealings. ASR could show him immediately which dealerships were under
+		performing, for instance. We successfully rolled out ASR in nine of his dealerships and were giving daily training 
+		sessions across Melbourne. Along side the roll-outs and personnel training we incorporated some additional requests 
+		from the dealerships and also transformed some of the higher-level reporting pages into Mandarin. 
+		Then, disaster struck. Our Chinese overlord were caught out for breaking the law regarding interstate
+		wholesale transactions. The agreements he had with the different vehicle franchises came crashing down
+		and one-by-one all his dealerships were sold over to new investors. Along with each new investor taking 
+		over a dealership came new systems, new management and personnel and hence, ASR would be replaced with something else. 
+		At that stage Jon and I realized we had a good run and decided to call it quits. We closed the company 
+		and I decided to go back to Uni to study data science and Jon is sailing his boat somewhere in the Pacific Ocean.
+	</p>
+</div>
+</div>
+<hr>
+
+<div class="row content-row">
+<div class="col-12 col-sm-4">
     <img src="images/Motec.png">
 </div>
 <div class="col-12 col-sm-8">
@@ -80,3 +122,37 @@ use_fontawesome: true
 </div>
 </div>
 <hr>
+
+
+<div class="row content-row">
+<div class="col-12 col-sm-4">
+    <img src="images/SAAB.png">
+</div>
+<div class="col-12 col-sm-8">
+    <h3>Senior Software Engineer</h3>
+    <h4>SAAB Avitronics, South Africa</h4>	
+    <p class="italic">Jan 2002 - Feb 2008</p>
+    <p>
+		SAAB Avitronics is a military manufacturing company that operates in South Africa in close conjunction with the SANDF 
+		(South African National Defence Force) and the country’s largest military manufacturer, Denel. At the time I was appointed
+		as a senior software engineer, SAAB was awarded a contract with the Indian Airforce who purchased 240 Sukhoi-SU30 Russian
+		fighter aircraft. SAAB won the contract to develop the crash recorders (black boxes, which incidentally is not black but,
+		bright orange) as well as data acquisition units (DAU). The DAU flies alongside the crash recorder on the aircraft and has
+		the capability to record any signal on the ARINC and MIL-1553 busses of the aircraft. My responsibility was to design, code,
+		test and qualify the Flight Line System (FLS). The FLS was responsible for capturing flight data, uploading configuration data
+		and performing live streaming of aircraft telemetry. It is during this time that I was exposed to MIL-STD-498 as well as 
+		RTCA DO-178B - Software Considerations in Airborne Systems and Equipment Certification, which is a guideline dealing with 
+		the safety of safety-critical software used in certain airborne systems. Both these standards, especially MIL-STD-498 gave
+		me a thorough grounding in understanding and applying a proper SDLC. These days Agile, Scrum, Lean, Kaban, Extreme Programming etc.
+		seem to be in demand. And, don’t get me wrong there is definitely a place for those methodologies. I think I was fortunate to 
+		land on a project that exposed me to both MIL-STD-498 and DO-178B. After the Sukhoi project I worked on the Redhawk Attack Helicopter’s
+		DAU code and kept up support and implemented smaller enhancements for the South African, British, Canadian, Australian and Indian 
+		Airforces’ FLS systems which flies on their respective Lead-In-Fighter-Trainers (LIFT). After six years at SAAB I resigned,
+		and my family and I decided to immigrate to Australia.
+	</p>
+</div>
+</div>
+<hr>
+
+
+

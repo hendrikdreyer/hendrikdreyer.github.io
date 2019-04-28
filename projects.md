@@ -134,7 +134,9 @@ use_fontawesome: true
 		To answer the five questions a rationale is given for the design decisions that underlies four visualizations.
 	</p>
     <a href="https://hendrikdreyer.github.io/Tableau-Dashboard-Design/">Link to GitHub</a>	
-    <a href="https://public.tableau.com/profile/hendrik5352#!/vizhome/Assessment-3-Sales/Assessment3-Dashboard?publish=yes">Link to online dashboard</a>		
+	<p>
+		<a href="https://public.tableau.com/profile/hendrik5352#!/vizhome/Assessment-3-Sales/Assessment3-Dashboard?publish=yes">Link to online dashboard</a>		
+	</p>
 </div>
 </div>
 <hr>
