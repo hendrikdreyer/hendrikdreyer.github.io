@@ -1,7 +1,7 @@
 ﻿---
 title: "How will Blockchain impact Data Science"
 layout: post
-use_code: false
+use_code: true
 ---
 
 ﻿﻿﻿Blockchain has established itself as the next emerging data processing
