@@ -18,7 +18,7 @@ in data science aspects such as:
 For a quick refresher on what blockchain is see the infographic below.
 
 <div>
-<img src="_posts/media/a8d21144c0e57f412a2a0f3d9d138e1e.jpg">
+<img src="../images/a8d21144c0e57f412a2a0f3d9d138e1e.jpg">
 </div>
 
 
