@@ -8,12 +8,12 @@ use_code: false
 technology. Data scientists are starting to realize that blockchain holds a
 number of advantages when it comes to data integrity. Blockchain assists greatly
 in data science aspects such as: 
-- Fostering data traceability
-- Real-time analysis
-- Generating trust
-- Easy data sharing
-- Improves data integrity
-- Confirmed data quality
+*   Fostering data traceability
+*   Real-time analysis
+*   Generating trust
+*   Easy data sharing
+*   Improves data integrity
+*   Confirmed data quality
 
 For a quick refresher on what blockchain is see the infographic below.
 
