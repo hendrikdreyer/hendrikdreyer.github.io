@@ -1,3 +1,12 @@
+---
+title: Finding a good poster on Hacker News
+layout: post
+use_math: true
+use_toc: true
+excerpt: What makes certain posters score higher points on the stories they post. But, even more interesting what is the content they post about?
+---
+
+
 How to find a good news poster on HN
 ====================================
 
@@ -7,7 +16,7 @@ How to find a good news poster on HN
 
 #### 8 May 2019
 
-![C:\\Users\\driku\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\71FAC917.tmp](media/524ea844fc6904165e357106d4f7e97a.png)
+![](media/524ea844fc6904165e357106d4f7e97a.png)
 
 Introduction
 ============
@@ -42,7 +51,7 @@ forum content is freely available as a public BigQuery data set as
 [bigquery-public-data.hacker_news.](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=hacker_news).
 There are 4 tables listed under the hacker_news entry:
 
-![C:\\Users\\driku\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\591A602C.tmp](media/4d02c4f470625fee05f87a3787be2a48.png)
+![](media/4d02c4f470625fee05f87a3787be2a48.png)
 
 For this EDA I will use the table labelled, “full” as it contains all posts to
 HN since 2006.
@@ -84,7 +93,7 @@ coord_flip() +
 
 geom_text(aes(label=high_scores, color = 'red'), vjust=0.3, hjust=1.2, size=3.5)
 
-![C:\\Users\\driku\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\6CF46A3D.tmp](media/c26ca713e200b7275c9484a725ac0710.png)
+![](media/c26ca713e200b7275c9484a725ac0710.png)
 
 We can see that “ingve” is the clear leader in terms of accumulated scores on
 all the stories that he/she posted. Let’s take a look at how active “ingve” was
@@ -122,7 +131,7 @@ las=1,
 
 prob = TRUE)
 
-![C:\\Users\\driku\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\4AB2B31A.tmp](media/bd4009f8f6cd6f94dff37289c5a41cac.png)
+![](media/bd4009f8f6cd6f94dff37289c5a41cac.png)
 
 From the above histogram we can observe that ingve started out slow at the end
 of 2010 and then steadily increased his/her activity right up until 2014 and
@@ -222,20 +231,20 @@ cex=.5)
 abline(lm(todo_copies\$total_score\~todo_copies\$number_of_stories), col="red")
 \# regression line (y\~x)
 
-![C:\\Users\\driku\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\7BF97453.tmp](media/6adc144d21de4a00fd1561538f5b1bf4.png)
+![](media/6adc144d21de4a00fd1561538f5b1bf4.png)
 
 From the above scatter plot we can see a linear relationship between the number
 of stories posted vs. the accumulated total score racked up for all the stories
 posted (red line). This was to be expected - more stories equal more
 opportunities to rack up points.
 
-![C:\\Users\\driku\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\C1EFA38.tmp](media/2dd68cc036da607d3c930db4927682ab.png)
+![](media/2dd68cc036da607d3c930db4927682ab.png)
 
 In the above plot I have circled 4 outliers with red. Clearly these posters
 stand out in terms of quantity as well as total scores. Let’s overlay these
 points with usernames in order to identify our four outlier posters.
 
-![C:\\Users\\driku\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\64BD04D9.tmp](media/50a75b6625e05d66ee21fab5a192976b.png)
+![](media/50a75b6625e05d66ee21fab5a192976b.png)
 
 Our four outlier posters are ingve, rbanffy, jacquesm and tptacek. Although
 tptacek posts like a man possessed, with hjacquesm and rbanffy short on his
@@ -342,7 +351,7 @@ colors=brewer.pal(8, "Dark2"))
 
 ### Word cloud: Ingve
 
-![C:\\Users\\driku\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\E6B8B506.tmp](media/ff10846453a370cf3ee98abde08650a3.png)
+![](media/ff10846453a370cf3ee98abde08650a3.png)
 
 No surprises there! After all, NH is a hacker’s forum so the main interest would
 be all things coding.
