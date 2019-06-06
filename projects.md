@@ -94,6 +94,7 @@ use_fontawesome: true
 		Extensive Java scripting was used to facilitate a large portion of ASR's functionality in Caspio.
 	</p>
     <a href="https://hendrikdreyer.github.io/AutoSalesReports/">Link</a>	
+	<a href="https://drive.google.com/file/d/1jOTJCt2bX8ZhnDZdsfd9W4V6QYnv59Kc/view">Link to Caspio case study</a>		
 </div>
 </div>
 <hr>
