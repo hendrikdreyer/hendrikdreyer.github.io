@@ -93,8 +93,10 @@ use_fontawesome: true
 		Microsoft SQL Server was used as the cloud database. 
 		Extensive Java scripting was used to facilitate a large portion of ASR's functionality in Caspio.
 	</p>
-    <a href="https://hendrikdreyer.github.io/AutoSalesReports/">Link</a>	
+    <a href="https://hendrikdreyer.github.io/AutoSalesReports/">Link</a>
+	<p>
 	<a href="https://drive.google.com/file/d/1jOTJCt2bX8ZhnDZdsfd9W4V6QYnv59Kc/view">Link to Caspio case study</a>		
+	</p>
 </div>
 </div>
 <hr>
