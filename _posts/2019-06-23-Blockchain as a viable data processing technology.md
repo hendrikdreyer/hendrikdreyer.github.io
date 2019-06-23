@@ -10,8 +10,7 @@ digital assets (in particular, those of monetary value) directly from one party
 to another without going through a central financial institution (CB Insights,
 2018).
 
-[^1]: The mystery surrounding Satoshi Nakamoto is eerie enough but, the fact
-that his/her seminal paper was published on Halloween makes it even more freaky.
+[^1]: The mystery surrounding Satoshi Nakamoto is eerie enough but, the fact that his/her seminal paper was published on Halloween makes it even more freaky.
 
 The following literature review considers various sources of literature, which
 range from books, online as well as published articles and blogs that were
@@ -224,8 +223,7 @@ humanity can tackle a larger problem at hand, corruption and as such instil a
 culture of due diligence. Who knows, we might still get to that promised land –
 I just hope it won’t take us forty years.
 
-[^2]: The author admits that his infatuation with Satoshi is something that
-might drive him into full-time investigative journalism one day…
+[^2]: The author admits that his infatuation with Satoshi is something that might drive him into full-time investigative journalism one day…
 
 Bibliography
 ------------
