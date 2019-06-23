@@ -16,6 +16,9 @@ use_fontawesome: true
 	<h4>Siemens, Australia</h4>
     <p class="italic">May 2010 - May 2017</p>
     <p>
+	Siemens is a global powerhouse focusing on the areas of electrification, automation and digitalization. 
+	One of the world’s largest producers of energy-efficient, resource-saving technologies, Siemens is a leading supplier of systems 
+	for power generation and transmission as well as medical diagnosis.
 	Melbourne Metro Train Control System - 
 	I was initially appointed as an integration engineer on the Core TCMS project, 
 	which involved the creation of a control system for the Melbourne metropolitan rail system. 
@@ -51,10 +54,7 @@ use_fontawesome: true
     <h3>Co-founder and BI Lead</h3>
     <h4>ADSR Technologies, Australia</h4>	
     <p class="italic">Jun 2017 - Dec 2018</p>
-    <p>
-		Siemens is a global powerhouse focusing on the areas of electrification, automation and digitalization. 
-		One of the world’s largest producers of energy-efficient, resource-saving technologies, Siemens is a leading supplier of systems 
-		for power generation and transmission as well as medical diagnosis.
+    <p> 
 		Towards the end of my tenure at Siemens I met <a href="https://www.linkedin.com/in/jon-heap-a61500a6/?originalSubdomain=au">Jon Heap</a> 
 		who was a semi-retired dealer principle whos last 
 		stint was with a Toyota dealership situated in the east of Melbourne. Together we started developing a cloud-based
