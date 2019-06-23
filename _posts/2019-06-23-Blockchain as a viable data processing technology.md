@@ -1,9 +1,3 @@
-Blockchain as a viable data processing technology
-=================================================
-
-Introduction
-------------
-
 On the 31st of October 2008[^1] Satoshi Nakamoto published a ground-breaking
 paper titled, *Bitcoin: A Peer-to-Peer Electronic Cash System* (Nakamoto, 2009).
 The paper proposed a solution to the double-spending problem using a
