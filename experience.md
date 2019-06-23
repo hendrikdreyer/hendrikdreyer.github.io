@@ -24,7 +24,7 @@ use_fontawesome: true
 	The integration team had the task of building the system from numerous applications developed in-house. 
 	I had the opportunity to work on the early functionality of automating the build and roll-out process. 
 	This task involved dev-ops work where you had to get your hands dirty in a lot of Linux bash scripting. 
-	After two rounds of re-structuring I was moved onto the Verification and Validation team (V&V), 
+	After two rounds of internal company re-structuring I was moved onto the Verification and Validation team (V&V), 
 	where I had the privilege to write a copious number of test documents (not that much fun). 
 	However, it gave me a thorough understanding of the system and it assisted me in executing various systems tests, 
 	which was required to get the system to higher operational levels. 
@@ -32,7 +32,7 @@ use_fontawesome: true
 	it did not turn a profit – at least not at that stage), 
 	I took over responsibility for the further development of two major sub systems on the project – 
 	Electronic Docking Sheet (EDS) and the Electronic Train Graph (ETG). At that stage both the 
-	products were fairly mature and consisted of a code base around 200,000 lines of code. 
+	products were fairly mature and consisted of a code base of around 200,000 lines of code. 
 	Both the applications were GUI based and was coded in C++. The STL 
 	(Standard Template Library), Qt and several inhouse libraries were used to develop these applications. 
 	Both applications relied heavily on design patterns architecture (the gang of four). 
@@ -52,24 +52,29 @@ use_fontawesome: true
     <h4>ADSR Technologies, Australia</h4>	
     <p class="italic">Jun 2017 - Dec 2018</p>
     <p>
-		Towards the end of my career at Siemens I met <a href="https://www.linkedin.com/in/jon-heap-a61500a6/?originalSubdomain=au">Jon Heap</a> 
+		Siemens is a global powerhouse focusing on the areas of electrification, automation and digitalization. 
+		One of the world’s largest producers of energy-efficient, resource-saving technologies, Siemens is a leading supplier of systems 
+		for power generation and transmission as well as medical diagnosis.
+		Towards the end of my tenure at Siemens I met <a href="https://www.linkedin.com/in/jon-heap-a61500a6/?originalSubdomain=au">Jon Heap</a> 
 		who was a semi-retired dealer principle whos last 
-		stint was at a Toyota dealership situated in the east of Melbourne. Together we started developing a cloud-based
+		stint was with a Toyota dealership situated in the east of Melbourne. Together we started developing a cloud-based
 		CRM/Sales Reporting system, AutoSalesReports (ASR), which was focused on the day-to-day running and management of
 		an average Australian dealership. The development of ASR initiated under some heavy time and financial constraints.
 		Jon and I hammered out the requirements for the system, which were based on his experience in managing dealerships. 
 		I took it upon myself to code the system and Jon switched into a testing and training role. Initially, we set out to 
 		create a proof-of-concept system and then flesh it out to a production system. As a development platform I chose Caspio 
 		as it was geared for creating cloud-based databases and was oozing with functionality that assists in creating forms, 
-		tables, charts, graphics, etc. that can be easily deployed as asp object. Our main philosophy was to ”fail-fast” –
-		meaning that due to the time and financial constraints we had, we needed to get it to work quickly or else kill off the project. 
-		I spent a solid year and a half coding ASR (while commuting on the train, weekends, after hours and lunch breaks at work)
+		tables, charts, graphics, etc., that can be easily deployed as asp objects. Our main philosophy was to ”fail-fast” –
+		meaning that due to the time and financial constraints we had, we needed to get it to work quickly or else kill off the project.
+		Fortunately, each technical hurdle we met, we not only cleared, but managed to drive the sytem into even higher levels of functionality and peformance. 
+		I contribute our technical success to a combination of choosing the correct technologies upfront and our agile development approach.  
+		I spent a solid year and a half coding ASR (mostly whilts commuting on the train, weekends, after hours and lunch breaks at work)
 		and learned a lot regarding creating websites. I’m still no guru when it comes to web design, but I know enough HTML,
 		CSS and Java script to be able to achieve something. The webpages for ASR were hosted on GoDaddy and Caspio would serve
 		the asp content from within the Caspio platform. 
-		We caught a lucky break early on by meeting a cash laced investor who at that stage wanting to build
-		his own auto holding group (multiple dealerships under one name). We successfully pitched ASR to him, 
-		and he liked what he saw – mainly because ASR had the capability to present a snap shot views of all his
+		We caught a lucky break early on by meeting a cash laced investor whom at that stage wanted to build
+		his own auto holding group (multiple dealerships under one name). We manged to successfully pitched ASR to him.
+		He liked ASR mainly because it had the capability to present a snap shot views of all his
 		dealership’s daily, weekly, monthly, etc. dealings. ASR could show him immediately which dealerships were under
 		performing, for instance. We successfully rolled out ASR in nine of his dealerships and were giving daily training 
 		sessions across Melbourne. Along side the roll-outs and personnel training we incorporated some additional requests 
@@ -79,7 +84,7 @@ use_fontawesome: true
 		and one-by-one all his dealerships were sold over to new investors. Along with each new investor taking 
 		over a dealership came new systems, new management and personnel and hence, ASR would be replaced with something else. 
 		At that stage Jon and I realized we had a good run and decided to call it quits. We closed the company 
-		and I decided to go back to Uni to study data science and Jon is sailing his boat somewhere in the Pacific Ocean.
+		and I decided to go back to Uni to study data science and Jon decided to take up sailing.
 	</p>
 </div>
 </div>
@@ -98,9 +103,10 @@ use_fontawesome: true
 		MoTeC is a small boutique engineering firm that develops products for the motor racing industry. 
 		MoTeC’s software engineering department was driven by a small number of hard-core software developers, 
 		which took exceptional pride in their work and became easily emotional/defensive when you accidentally 
-		found a bug in their code. Non the less, their work ethic was second to none. 
-		I was given the initial task of developing the software for a small sensor that was fitted on the 
-		exhaust of a vehicle where it monitored the air-fuel mixture – it was call the LTC (Lambda-To-CAN). 
+		found a bug in their code (not that there where that many but, I was fortunate/unfotunate enough to stuble upon a few...). 
+		Non the less, their work ethic was second to none. 
+		I was given the initial task of developing the software for a small sensor that was fitted in the 
+		exhausts of racing vehicles where it monitored the air-fuel mixture – it was call the LTC (Lambda-To-CAN). 
 		I took up the task with excitement and vigour and as any good software engineer 
 		(especially those that worked on military projects and is trained to work according to certain 
 		software development guidelines), I started doing requirement gathering and analysis. 
@@ -109,13 +115,14 @@ use_fontawesome: true
 		were asking more and more when they could see some code. I re-assured them that I was on the 
 		verge of publishing my newly written SRS and was putting the final touches on it. 
 		To say the least, my colleagues were not impressed with the SRS and the reason being 
-		is that it was not code. Later, one of the senior engineers told me straight – 
+		is that it was not code. To state it mildly, when I published my SRS, it was like lobbing a hand-grenade at them.
+		Later, one of the senior engineers told me straight – 
 		“the code is the documentation”. It was then that I realised that the practice of 
 		Systems Engineering is null and void in MoTeC (today, it might be different, but back in 
 		2008, not so much). Fair enough, in an industry where there are no real safety regulations 
 		(as compared to the aviation industry), then yes, writing documentation is properly a waist 
 		of time and it is rather all about turn around time and pushing as much functionality into 
-		your software as humanly possible. I will be forever be thankful for MoTeC giving me my first 
+		your software as humanly possible. I will be forever be thankful for MoTeC for giving me my first 
 		job in Australia. But, after just under two years, and successfully delivering the LTC and 
 		maintaining a few other products, I decided to seek a more structured and regulated environment. 
 	</p>
